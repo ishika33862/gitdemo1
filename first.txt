@@ -1,1 +1,2 @@
 print ("Welcome to TMU")
+print("I am a student")
